@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80dcd764-d418-45ac-bc66-4120f7e5f418" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/customer_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/customer_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/stock_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/stock_delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/registration/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="80dcd764-d418-45ac-bc66-4120f7e5f418" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +136,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/efs/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2176">
@@ -177,7 +166,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -253,8 +242,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-67" />
-    <option name="y" value="28" />
+    <option name="x" value="66" />
+    <option name="y" value="95" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -384,6 +373,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-67" y="28" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29004666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -542,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/efs/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
-          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -556,6 +539,13 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/efs/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
         </state>
       </provider>
     </entry>
